@@ -1,0 +1,21 @@
+
+.bannerTop {
+
+    display: inline-block;
+    width: 80%;
+    background-color: #ce317d;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    margin: 0 auto;
+    box-shadow: 1px 1px;
+
+}
+
+.alignCentre {
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    align-content: center;
+
+}
